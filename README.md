@@ -13,17 +13,15 @@ https://star-history.t9t.io/#casbin/casbin&open-policy-agent/opa&ory/ladon
 
 ## jCasbin
 
+- https://github.com/spring-projects/spring-security
+
+- https://github.com/apache/shiro
+
+- https://github.com/pac4j/pac4j
+
 - https://github.com/casbin/jcasbin
 
-- https://github.com/yahoo/athenz
-
-- https://github.com/att/XACML
-
-- https://github.com/wso2/balana
-
-- https://github.com/authzforce/core
-
-https://star-history.t9t.io/#casbin/jcasbin&yahoo/athenz&att/XACML&wso2/balana&authzforce/core
+https://star-history.t9t.io/#spring-projects/spring-security&apache/shiro&pac4j/pac4j&casbin/jcasbin
 
 ## Node-Casbin
 
